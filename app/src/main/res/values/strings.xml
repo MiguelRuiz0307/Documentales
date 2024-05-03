@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Documentales</string>
+    <string name="documentales1">Shoah.</string>
+    <string name="documentales2">Frente antinuclear.</string>
+    <string name="documentales3">O.J. Made in America.</string>
+    <string name="documentales4">Wild Wild Country.</string>
+    <string name="documentales5">Cowspiracy.</string>
+    <string name="documentales6">Líbranos del mal.</string>
+    <string name="documentales7">I Am Not Your Negro.</string>
+    <string name="documentales8">Noche y niebla.</string>
+    <string name="documentales9">The Thin Blue Line.</string>
+    <string name="documentales10">Man On Wire.</string>
+</resources>
